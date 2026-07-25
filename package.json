@@ -1,0 +1,9 @@
+{
+  "name": "mi-camino-a-santiago",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": { "dev": "vite", "build": "tsc -b && vite build", "lint": "eslint .", "preview": "vite preview" },
+  "dependencies": { "@vitejs/plugin-react": "latest", "vite": "latest", "typescript": "latest", "react": "latest", "react-dom": "latest", "react-router-dom": "latest", "lucide-react": "latest", "framer-motion": "latest", "leaflet": "latest", "react-leaflet": "latest" },
+  "devDependencies": { "@types/react": "latest", "@types/react-dom": "latest", "@types/leaflet": "latest", "eslint": "latest", "@eslint/js": "latest", "typescript-eslint": "latest", "eslint-plugin-react-hooks": "latest", "eslint-plugin-react-refresh": "latest", "prettier": "latest" }
+}

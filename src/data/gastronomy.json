@@ -1,0 +1,5 @@
+[
+  {"name":"Mercado de Abastos de Santiago","city":"Santiago de Compostela","type":"Mercado y restauración","specialty":"Producto gallego y puestos de alimentación","price":"Según puesto","phone":"Consultar ficha oficial","website":"https://mercadodeabastosdesantiago.gal/","coords":[42.8822,-8.5414],"source":"https://mercadodeabastosdesantiago.gal/"},
+  {"name":"Parador Hostal dos Reis Católicos","city":"Santiago de Compostela","type":"Restauración","specialty":"Cocina gallega","price":"Consultar carta","phone":"+34 981 58 22 00","website":"https://paradores.es/es/parador-de-santiago-de-compostela","coords":[42.881,-8.5452],"source":"https://paradores.es/es/parador-de-santiago-de-compostela"},
+  {"name":"Oficina de Turismo de Zamora","city":"Zamora","type":"Información local","specialty":"Consulta de establecimientos y horarios actualizados","price":"Gratis","phone":"Consultar fuente","website":"https://www.turismocastillayleon.com/","coords":[41.5014,-5.754],"source":"https://www.turismocastillayleon.com/"}
+]

@@ -1,0 +1,8 @@
+[
+  {"name":"Catedral y Plaza del Obradoiro","type":"Monumento","coords":[42.8806,-8.5444],"visit":"45–90 min","note":"Meta del Camino y centro del casco histórico.","source":"https://www.santiagoturismo.com/"},
+  {"name":"Hostal dos Reis Católicos","type":"Patrimonio","coords":[42.881,-8.5452],"visit":"15–30 min","note":"Fachada histórica junto al Obradoiro; actualmente Parador.","source":"https://paradores.es/es/parador-de-santiago-de-compostela"},
+  {"name":"Mercado de Abastos","type":"Gastronomía","coords":[42.8822,-8.5414],"visit":"45–60 min","note":"Mercado de producto local; confirmar aperturas por día.","source":"https://mercadodeabastosdesantiago.gal/"},
+  {"name":"Monasterio de San Martiño Pinario","type":"Patrimonio","coords":[42.8818,-8.544],"visit":"30–60 min","note":"Conjunto monumental del casco histórico.","source":"https://www.santiagoturismo.com/"},
+  {"name":"Museo do Pobo Galego","type":"Museo","coords":[42.8843,-8.5398],"visit":"60–90 min","note":"Colecciones dedicadas a la cultura gallega.","source":"https://museudopobo.gal/"},
+  {"name":"Parque de la Alameda","type":"Mirador","coords":[42.8772,-8.5468],"visit":"45 min","note":"Paseo y vistas hacia la Catedral.","source":"https://www.santiagoturismo.com/"}
+]
